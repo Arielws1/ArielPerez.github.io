@@ -281,3 +281,32 @@ html{
     right: -15px;
     font-size: 14px;
 }
+
+/*seccion Crurriculum*/
+.curriculum{
+    background-color: #1e2326;
+    color: #fff;
+    padding: 50px 20px;
+}
+.curriculum .contenido-seccion{
+    max-width: 1110px;
+    margin: auto;
+}
+.curriculum h2{
+    font-size: 48px;
+    font-family: "Righteous";
+    text-align: center;
+    padding: 20px 0;
+}
+.curriculum .fila{
+    display: flex;
+}
+.curriculum .fila .col{
+    width: 49%;
+    padding: 0 20px;
+}
+.curriculum .fila .col h3{
+    font-size: 28px;
+    font-family: "Righteous";
+    margin-bottom: 25px;
+}
